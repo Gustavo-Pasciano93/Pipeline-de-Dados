@@ -1,0 +1,499 @@
+{
+    "1": {
+        "Name": "Gregory Romero",
+        "Email": "tammywalker@murphy.com",
+        "Address": "326 Monique Creek Suite 035\nLake Chelseatown, OK 90991",
+        "Purchase_History": [
+            "2024-07-27",
+            "2024-03-16",
+            "2024-03-15"
+        ]
+    },
+    "2": {
+        "Name": "Michael Jackson",
+        "Email": "bpeterson@gmail.com",
+        "Address": "33470 Melissa Forges Apt. 349\nJohnnychester, FL 11879",
+        "Purchase_History": [
+            "2024-05-17",
+            "2024-03-02",
+            "2024-03-05",
+            "2024-08-05",
+            "2024-04-02"
+        ]
+    },
+    "3": {
+        "Name": "Dawn Gibson",
+        "Email": "christopher89@garcia.net",
+        "Address": "697 Johnson Unions Suite 191\nSouth Brad, DC 67866",
+        "Purchase_History": [
+            "2024-05-03",
+            "2024-04-11",
+            "2024-02-29",
+            "2024-05-09"
+        ]
+    },
+    "4": {
+        "Name": "Evan Torres",
+        "Email": "treyes@yahoo.com",
+        "Address": "361 Morgan Fords Apt. 377\nSouth Marcbury, ME 98770",
+        "Purchase_History": [
+            "2024-05-16",
+            "2024-01-09"
+        ]
+    },
+    "5": {
+        "Name": "Ashley Swanson",
+        "Email": "jameslewis@huber.com",
+        "Address": "Unit 4643 Box 9762\nDPO AP 68135",
+        "Purchase_History": [
+            "2024-02-15"
+        ]
+    },
+    "6": {
+        "Name": "Jeanette Ward",
+        "Email": "nicholasferguson@yahoo.com",
+        "Address": "78729 Calvin Station\nLiuburgh, AL 31419",
+        "Purchase_History": [
+            "2024-08-12",
+            "2024-08-12",
+            "2024-08-03",
+            "2024-05-02",
+            "2024-04-18"
+        ]
+    },
+    "7": {
+        "Name": "Megan Williams",
+        "Email": "kaisernancy@santos.com",
+        "Address": "USS Rojas\nFPO AE 68282",
+        "Purchase_History": [
+            "2024-02-12",
+            "2024-01-11",
+            "2024-04-05"
+        ]
+    },
+    "8": {
+        "Name": "Jennifer Gonzalez",
+        "Email": "carlos62@gmail.com",
+        "Address": "0142 Daniel Mountains Suite 811\nWrightport, DC 97030",
+        "Purchase_History": [
+            "2024-03-16",
+            "2024-02-01",
+            "2024-07-06",
+            "2024-06-18",
+            "2024-03-11"
+        ]
+    },
+    "9": {
+        "Name": "Haley Alvarado",
+        "Email": "tannercastaneda@hotmail.com",
+        "Address": "Unit 5976 Box 3015\nDPO AE 29141",
+        "Purchase_History": [
+            "2024-03-15",
+            "2024-08-19",
+            "2024-02-18",
+            "2024-03-15",
+            "2024-07-23"
+        ]
+    },
+    "10": {
+        "Name": "Nicholas Mendez",
+        "Email": "kimberly32@yahoo.com",
+        "Address": "9413 Charles Island\nPort Benjaminville, WI 83118",
+        "Purchase_History": [
+            "2024-05-18",
+            "2024-06-29",
+            "2024-07-26"
+        ]
+    },
+    "11": {
+        "Name": "Charles Mcneil",
+        "Email": "michellesellers@ramirez.net",
+        "Address": "887 Heather Squares\nPort Stephentown, NE 76418",
+        "Purchase_History": [
+            "2024-01-13"
+        ]
+    },
+    "12": {
+        "Name": "Anna Werner",
+        "Email": "ubowman@davenport.com",
+        "Address": "7845 Alicia Pike Apt. 292\nFryton, VA 54607",
+        "Purchase_History": [
+            "2024-03-16",
+            "2024-02-08",
+            "2024-04-07"
+        ]
+    },
+    "13": {
+        "Name": "Vicki Anderson",
+        "Email": "larrymiller@hotmail.com",
+        "Address": "840 Rojas Squares Apt. 793\nEast Emily, AR 62112",
+        "Purchase_History": [
+            "2024-03-28"
+        ]
+    },
+    "14": {
+        "Name": "Cory Barnes",
+        "Email": "kathrynlewis@gmail.com",
+        "Address": "10820 Christopher Wall Apt. 600\nNew Kevinton, VT 84876",
+        "Purchase_History": [
+            "2024-07-03",
+            "2024-05-16"
+        ]
+    },
+    "15": {
+        "Name": "Laura Mayo",
+        "Email": "kennethgraham@yahoo.com",
+        "Address": "8430 Smith Drive Suite 048\nWalterschester, RI 54183",
+        "Purchase_History": [
+            "2024-05-13",
+            "2024-03-12",
+            "2024-01-23",
+            "2024-04-19",
+            "2024-01-31"
+        ]
+    },
+    "16": {
+        "Name": "Alexis Flores",
+        "Email": "pgross@martinez.biz",
+        "Address": "90453 Cassandra Squares Apt. 049\nQuinnburgh, AR 70289",
+        "Purchase_History": [
+            "2024-07-28",
+            "2024-04-26",
+            "2024-05-31",
+            "2024-03-30",
+            "2024-03-24"
+        ]
+    },
+    "17": {
+        "Name": "Willie Stephens",
+        "Email": "adam82@hotmail.com",
+        "Address": "5873 Rose Highway\nBookerton, AZ 37193",
+        "Purchase_History": [
+            "2024-01-17"
+        ]
+    },
+    "18": {
+        "Name": "Andrew Pratt",
+        "Email": "davidbarajas@gmail.com",
+        "Address": "1850 Michael Key\nMasonbury, MD 06830",
+        "Purchase_History": [
+            "2024-03-21",
+            "2024-06-18",
+            "2024-06-11"
+        ]
+    },
+    "19": {
+        "Name": "Julie Robbins",
+        "Email": "deleonrebecca@yahoo.com",
+        "Address": "586 Hopkins Islands\nPort Tammy, VA 43986",
+        "Purchase_History": [
+            "2024-07-07"
+        ]
+    },
+    "20": {
+        "Name": "Jessica Pineda",
+        "Email": "smithsamantha@gonzales-rogers.com",
+        "Address": "487 Mary Mountain Apt. 983\nEast William, OR 90622",
+        "Purchase_History": [
+            "2024-06-24",
+            "2024-06-14",
+            "2024-06-04"
+        ]
+    },
+    "21": {
+        "Name": "Timothy Bean",
+        "Email": "phunter@jenkins.org",
+        "Address": "54895 Alejandro Street Apt. 606\nGreenmouth, NC 29369",
+        "Purchase_History": [
+            "2024-01-15"
+        ]
+    },
+    "22": {
+        "Name": "Krista Munoz",
+        "Email": "elizabeth96@yahoo.com",
+        "Address": "57348 Stevenson Common\nCharlesview, KS 80376",
+        "Purchase_History": [
+            "2024-06-19",
+            "2024-07-19",
+            "2024-01-27",
+            "2024-08-06"
+        ]
+    },
+    "23": {
+        "Name": "Eric Vargas",
+        "Email": "laurahutchinson@yahoo.com",
+        "Address": "1430 Graham Valley Suite 783\nSouth Sandrabury, MO 81000",
+        "Purchase_History": [
+            "2024-02-29",
+            "2024-08-23",
+            "2024-03-30",
+            "2024-04-29",
+            "2024-06-22"
+        ]
+    },
+    "24": {
+        "Name": "Stephanie Townsend",
+        "Email": "brettrodriguez@gmail.com",
+        "Address": "6980 Tonya Road\nNew Stephanie, IN 94816",
+        "Purchase_History": [
+            "2024-02-10",
+            "2024-07-21",
+            "2024-03-10"
+        ]
+    },
+    "25": {
+        "Name": "Adrian Clark",
+        "Email": "jessica20@valdez.com",
+        "Address": "295 Cox Camp Apt. 397\nBarrberg, TN 51429",
+        "Purchase_History": [
+            "2024-01-28",
+            "2024-04-17"
+        ]
+    },
+    "26": {
+        "Name": "David Mckenzie",
+        "Email": "jesse81@yahoo.com",
+        "Address": "75780 Cunningham Circles Suite 549\nKyleside, VA 68690",
+        "Purchase_History": [
+            "2024-07-26",
+            "2024-04-05",
+            "2024-03-03",
+            "2024-08-22"
+        ]
+    },
+    "27": {
+        "Name": "Leonard Olson",
+        "Email": "stephaniewalton@yahoo.com",
+        "Address": "506 Norman Causeway Suite 857\nEast Isabelland, AZ 05188",
+        "Purchase_History": [
+            "2024-07-20"
+        ]
+    },
+    "28": {
+        "Name": "Christopher Jones",
+        "Email": "fwiggins@hotmail.com",
+        "Address": "76874 Miller Ridge\nFarmerfurt, NH 45323",
+        "Purchase_History": [
+            "2024-01-02",
+            "2024-02-12",
+            "2024-04-09",
+            "2024-07-07"
+        ]
+    },
+    "29": {
+        "Name": "Gerald Brown",
+        "Email": "spencer61@phillips-harper.org",
+        "Address": "2798 Noble Knolls\nEast Olivia, SC 58608",
+        "Purchase_History": [
+            "2024-01-12",
+            "2024-05-03",
+            "2024-08-21",
+            "2024-02-20"
+        ]
+    },
+    "30": {
+        "Name": "Tammy Dunn",
+        "Email": "melissawells@yahoo.com",
+        "Address": "660 Wu Islands Suite 161\nNorth John, GA 02045",
+        "Purchase_History": [
+            "2024-05-07"
+        ]
+    },
+    "31": {
+        "Name": "Tara Daugherty",
+        "Email": "hermansusan@mclaughlin.com",
+        "Address": "193 Harris Square\nBreannachester, NJ 38138",
+        "Purchase_History": [
+            "2024-08-19"
+        ]
+    },
+    "32": {
+        "Name": "Jennifer Howard",
+        "Email": "waynetran@conrad.biz",
+        "Address": "823 Stewart Street Apt. 313\nLake Annaside, WY 09499",
+        "Purchase_History": [
+            "2024-02-10"
+        ]
+    },
+    "33": {
+        "Name": "Angela Smith",
+        "Email": "mjames@miller.com",
+        "Address": "2956 Robert Forks Apt. 762\nBautistastad, SC 85454",
+        "Purchase_History": [
+            "2024-04-23",
+            "2024-04-19"
+        ]
+    },
+    "34": {
+        "Name": "Brittany Morrison",
+        "Email": "ernest71@gmail.com",
+        "Address": "058 Pennington Mills\nPort Mark, IN 59533",
+        "Purchase_History": [
+            "2024-08-17",
+            "2024-03-17",
+            "2024-02-14"
+        ]
+    },
+    "35": {
+        "Name": "Cheryl Johnson",
+        "Email": "thomas54@burnett-wu.info",
+        "Address": "532 Petersen Ridges Suite 814\nJasonmouth, FL 31136",
+        "Purchase_History": [
+            "2024-04-27",
+            "2024-01-31",
+            "2024-01-24"
+        ]
+    },
+    "36": {
+        "Name": "Jeffrey Wilson",
+        "Email": "xfisher@yahoo.com",
+        "Address": "90226 Rachel Flats\nPattyland, MA 12828",
+        "Purchase_History": [
+            "2024-08-26",
+            "2024-08-10",
+            "2024-05-23"
+        ]
+    },
+    "37": {
+        "Name": "Melissa Peters",
+        "Email": "turnerangela@vargas.com",
+        "Address": "095 Daniel Pass Suite 857\nPort Samuel, TX 10190",
+        "Purchase_History": [
+            "2024-04-30",
+            "2024-01-08",
+            "2024-03-05"
+        ]
+    },
+    "38": {
+        "Name": "David Patton",
+        "Email": "juliejohnson@swanson-leonard.biz",
+        "Address": "294 Williams Street Apt. 396\nPort Nancy, IN 09327",
+        "Purchase_History": [
+            "2024-06-09",
+            "2024-04-07"
+        ]
+    },
+    "39": {
+        "Name": "Timothy Richardson",
+        "Email": "rpierce@yang-romero.com",
+        "Address": "82890 Dana Point\nBriggsfurt, NY 91438",
+        "Purchase_History": [
+            "2024-07-13",
+            "2024-01-29",
+            "2024-07-18",
+            "2024-06-28",
+            "2024-03-30"
+        ]
+    },
+    "40": {
+        "Name": "Bonnie Howard",
+        "Email": "patriciadavis@gibson.info",
+        "Address": "929 Glass Plain Suite 091\nLake Maria, IL 58108",
+        "Purchase_History": [
+            "2024-06-24",
+            "2024-01-08",
+            "2024-01-08",
+            "2024-01-26"
+        ]
+    },
+    "41": {
+        "Name": "Dawn Estrada",
+        "Email": "alison83@byrd-charles.com",
+        "Address": "55094 Morton Crest Suite 430\nWest Jennifer, AZ 86088",
+        "Purchase_History": [
+            "2024-06-12",
+            "2024-04-24",
+            "2024-03-10",
+            "2024-06-29"
+        ]
+    },
+    "42": {
+        "Name": "Melissa Stewart",
+        "Email": "ann18@hotmail.com",
+        "Address": "0409 Johnson Courts\nSouth Allenfort, HI 15080",
+        "Purchase_History": [
+            "2024-04-16",
+            "2024-04-06",
+            "2024-08-12"
+        ]
+    },
+    "43": {
+        "Name": "Stacy Ray",
+        "Email": "anna89@yahoo.com",
+        "Address": "8969 Smith Gateway Apt. 424\nWilsonfort, IA 32674",
+        "Purchase_History": [
+            "2024-08-07",
+            "2024-08-05"
+        ]
+    },
+    "44": {
+        "Name": "Michael Vaughn",
+        "Email": "carlsonmarisa@harris.biz",
+        "Address": "USNV Moreno\nFPO AE 33481",
+        "Purchase_History": [
+            "2024-06-03"
+        ]
+    },
+    "45": {
+        "Name": "Paul Dennis",
+        "Email": "susanyork@hotmail.com",
+        "Address": "88831 Thomas Rue\nKyleside, DE 76310",
+        "Purchase_History": [
+            "2024-06-13",
+            "2024-05-29",
+            "2024-01-18",
+            "2024-07-06"
+        ]
+    },
+    "46": {
+        "Name": "Beverly Carter",
+        "Email": "jacksontom@gmail.com",
+        "Address": "1020 Foster Plains Apt. 009\nSouth Brendan, MS 75167",
+        "Purchase_History": [
+            "2024-07-26"
+        ]
+    },
+    "47": {
+        "Name": "Rachel Hayes",
+        "Email": "mathissusan@jones-mueller.com",
+        "Address": "390 Nguyen Manor\nBlairton, NC 47397",
+        "Purchase_History": [
+            "2024-05-10",
+            "2024-05-27",
+            "2024-05-26",
+            "2024-03-06",
+            "2024-06-11"
+        ]
+    },
+    "48": {
+        "Name": "Jerry Thompson",
+        "Email": "steven92@bernard.com",
+        "Address": "2570 Pope Heights Apt. 975\nHigginsfort, MN 76569",
+        "Purchase_History": [
+            "2024-06-05",
+            "2024-01-21",
+            "2024-06-01",
+            "2024-01-31"
+        ]
+    },
+    "49": {
+        "Name": "April White",
+        "Email": "robertgilbert@johnson-blackburn.com",
+        "Address": "34821 Harrell Ways\nLake Elizabeth, MI 66046",
+        "Purchase_History": [
+            "2024-02-28",
+            "2024-02-07",
+            "2024-06-11"
+        ]
+    },
+    "50": {
+        "Name": "Rebecca Watson",
+        "Email": "stevensbenjamin@sharp-moore.com",
+        "Address": "74448 Alvarez Stream Suite 533\nNorth Lisamouth, MS 62157",
+        "Purchase_History": [
+            "2024-06-05",
+            "2024-04-19",
+            "2024-04-05"
+        ]
+    }
+}

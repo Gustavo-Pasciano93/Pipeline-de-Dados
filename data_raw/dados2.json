@@ -1,0 +1,17 @@
+{
+   "clientes": {
+      "id": "C103",
+      "nome": "Ana Oliveira",
+      "endereco": "Praça Central, 789, Belo Horizonte, MG",
+      "email": "ana.oliveira@email.com",
+      "historico_compras": [
+         {
+            "id_pedido": 1003,
+            "data": "2024-01-16",
+            "produto": "Laptop",
+            "quantidade": 1,
+            "preco": 1299
+         }
+      ]
+   }
+}
